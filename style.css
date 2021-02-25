@@ -1,0 +1,19 @@
+#nav{
+background-color: lightblue;
+height: 35px;
+font-size: 25px;
+font-weight:bold;
+font:italic;
+}
+
+#nav ul{
+padding:0;
+margin:0;
+list-styled-type:none;
+text-align: centre;
+}
+#nav li{
+display: inline;
+padding:15px;
+vaertical-align:middle;
+}
